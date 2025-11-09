@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gyubinc/leet_code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gyubinc/leet_code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gyubinc/leet_code/tree/master/0013-roman-to-integer) |
+| [2288-count-operations-to-obtain-zero](https://github.com/gyubinc/leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gyubinc/leet_code/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/gyubinc/leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
