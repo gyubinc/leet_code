@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gyubinc/leet_code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gyubinc/leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gyubinc/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/gyubinc/leet_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gyubinc/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gyubinc/leet_code/tree/master/0141-linked-list-cycle) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gyubinc/leet_code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/gyubinc/leet_code/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/gyubinc/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/gyubinc/leet_code/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
