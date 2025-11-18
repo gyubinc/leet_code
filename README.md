@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gyubinc/leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gyubinc/leet_code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gyubinc/leet_code/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/gyubinc/leet_code/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gyubinc/leet_code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gyubinc/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/gyubinc/leet_code/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
