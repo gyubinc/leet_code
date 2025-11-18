@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gyubinc/leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gyubinc/leet_code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/gyubinc/leet_code/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gyubinc/leet_code/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/gyubinc/leet_code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/gyubinc/leet_code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gyubinc/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gyubinc/leet_code/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
