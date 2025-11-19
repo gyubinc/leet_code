@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/gyubinc/leet_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gyubinc/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/gyubinc/leet_code/tree/master/0338-counting-bits) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gyubinc/leet_code/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/gyubinc/leet_code/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
