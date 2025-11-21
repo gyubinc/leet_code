@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gyubinc/leet_code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gyubinc/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/gyubinc/leet_code/tree/master/0141-linked-list-cycle) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gyubinc/leet_code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gyubinc/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gyubinc/leet_code/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/gyubinc/leet_code/tree/master/0392-is-subsequence) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gyubinc/leet_code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/gyubinc/leet_code/tree/master/0338-counting-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gyubinc/leet_code/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/gyubinc/leet_code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
